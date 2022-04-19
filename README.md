@@ -33,6 +33,12 @@
 <hr>
 
 😎 Languages | Abilities | Tools 😋
-<img src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/python.png"></img>
+<img src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/python.png" width="20" height="20"></img>
+<img src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/python.png" width="20" height="20"></img>
+<img src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/python.png" width="20" height="20"></img>
+<img src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/python.png" width="20" height="20"></img>
+<img src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/python.png" width="20" height="20"></img>
+<img src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/python.png" width="20" height="20"></img>
+
 
 <hr>
