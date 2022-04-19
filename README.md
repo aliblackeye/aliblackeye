@@ -2,15 +2,15 @@
 
 <div class="baglantilar" align="center">
 <code>       
-<a href="https://www.linkedin.com/in/ali-karag%C3%B6z-259809225/"><img alt="LinkedIn" width="30" height="30" src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/linkedin.png"/>LinkedIn</a>
+<a href="https://www.linkedin.com/in/ali-karag%C3%B6z-259809225/"><img alt="LinkedIn" width="30" height="30" src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/linkedin.png"/> LinkedIn</a>
 </code>
 
 <code>
-<a href="https://www.hackerrank.com/ali_blackeye/"><img alt="HackerRank" width="30" height="30" src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/hackerrank.png"/>HackerRank</a>
+<a href="https://www.hackerrank.com/ali_blackeye/"><img alt="HackerRank" width="30" height="30" src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/hackerrank.png"/> HackerRank</a>
 </code>
     
 <code>
-<a href="https://app.patika.dev/aliblackeye"><img alt="Patika" width="30" height="30" src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/patikaLogo.png"/>Patika</a>
+<a href="https://app.patika.dev/aliblackeye"><img alt="Patika" width="30" height="30" src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/patikaLogo.png"/> Patika</a>
 </code>
 
 <code>
