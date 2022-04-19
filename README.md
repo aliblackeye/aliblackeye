@@ -1,4 +1,4 @@
-<nav align="center"><h2>Merhaba bayanlar ve baylarrrr! 👋</h2></nav>
+<nav><h2 align="center">Merhaba bayanlar ve baylarrrr! 👋</h2></nav>
 
 <div class="ustkisim" align="center">
 
