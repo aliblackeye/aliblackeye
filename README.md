@@ -61,4 +61,4 @@
 <body>
 </html>
 
-<a href="https://github.com/aliblackeye/PatikaLearn"></a><img src="https://github-readme-stats.vercel.app/api/pin/?username=aliblackeye&repo=PatikaLearn&theme=radical"></img>
+<a href="https://github-readme-stats.vercel.app/api/pin/?username=aliblackeye&repo=PatikaLearn&theme=radical"></a><img src="https://github.com/aliblackeye/PatikaLearn"></img>
