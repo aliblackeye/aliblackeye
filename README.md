@@ -38,7 +38,7 @@
 <hr>
 <div align="center">
       
-<h1>😎 Languages | Abilities | Tools 😋</h1>
+<h4>😎 Languages | Abilities | Tools 😋</h4>
 
 <br>
 <br>
