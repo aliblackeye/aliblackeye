@@ -31,7 +31,7 @@
 </div>
 
 <hr>
-<div align="center">😎 Languages | Abilities | Tools 😋</div>
+<div align="center">😎 Languages | Abilities | Tools 😋
 
 <code><img src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/python.png" width="20" height="20"></img></code>
 <code><img src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/c#.png" width="20" height="20"></img></code>
@@ -43,5 +43,5 @@
 <code><img src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/javascript.png" width="20" height="20"></img></code>
 <code><img src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/database.png" width="20" height="20"></img></code>
 <code><img src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/linux.png" width="20" height="20"></img></code>
-
+</div>
 <hr>
