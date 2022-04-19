@@ -18,11 +18,7 @@
 
 <a href="https://www.instagram.com/aliblackeye" title="Instagram" rel="nofollow"><img width="30" src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/instagram.png" style="max-width: 100%;"> Instagram</a>
 
-    
-
 <hr>
-
-<a href="https://www.instagram.com/aliblackeye" title="Instagram" rel="nofollow"><img width="30" src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/instagram.png" style="max-width: 100%;"> Instagram</a>
   
 📚 I'm currently studying in Istinye University/Computer Programming.
 🤗 I like to code while listening to music.
