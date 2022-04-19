@@ -1,6 +1,6 @@
 <nav><h2 align="center">Merhaba bayanlar ve baylarrrr! 👋</h2></nav>
 
-<div class="baglantilar">
+<div class="baglantilar" align="center">
 <code>       
 <a href="https://www.linkedin.com/in/ali-karag%C3%B6z-259809225/"><img alt="LinkedIn" width="30" height="30" src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/linkedin.png"/></a>
       LinkedIn
