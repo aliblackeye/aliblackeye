@@ -2,11 +2,6 @@
 <html>
       
 <head>
-<style>
-.sol{float:left;}
-      
-.sag{float:right;}
-</style>
 </head>
 <body>
 
