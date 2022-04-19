@@ -9,7 +9,7 @@
     </li>    
 
     <li>
-      <a href="https://www.hackerrank.com/ali_blackeye"><img alt="HackerRank" width="30" height="30" src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/hackerrank.png"/></a>
+      <a href="https://www.hackerrank.com/ali_blackeye/"><img alt="HackerRank" width="30" height="30" src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/hackerrank.png"/></a>
       HackerRank
     </li>
     
@@ -18,10 +18,12 @@
       Patika
     </li>    
     
-    <li>
-      <img alt="Instagram" width="30" height="30" src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/instagram.png" />( https://www.instagram.com/aliblackeye/)
-      Instagram
-    </li>
+    
+     <li>
+      <a href="https://www.instagram.com/aliblackeye"><img alt="Patika" width="30" height="30" src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/instagram.png"/></a>
+      Patika
+    </li>    
+    
   </ul>
   
 </div>
