@@ -4,25 +4,24 @@
 
   <ul>
     <li>
-      [<img alt="LinkedIn" width="30" height="30" src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/linkedin.png" />]( https://www.linkedin.com/in/ali-karag%C3%B6z-259809225/)
+      <a href="https://www.linkedin.com/in/ali-karag%C3%B6z-259809225/"><img alt="LinkedIn" width="30" height="30" src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/linkedin.png"/></a>
       LinkedIn
-    </li>
+    </li>    
 
     <li>
-      [<img alt="HackerRank" width="30" height="30" src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/hackerrank.png" />]( https://www.hackerrank.com/ali_blackeye)
+      <a href="https://www.hackerrank.com/ali_blackeye"><img alt="HackerRank" width="30" height="30" src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/hackerrank.png"/></a>
       HackerRank
     </li>
     
     <li>
-      [<img alt="Patika" width="30" height="30" src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/patikaLogo.png" />]( https://app.patika.dev/aliblackeye)
+      <a href="https://app.patika.dev/aliblackeye"><img alt="Patika" width="30" height="30" src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/patikaLogo.png"/></a>
       Patika
-    </li>
+    </li>    
     
     <li>
-      [<img alt="Instagram" width="30" height="30" src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/instagram.png" />]( https://www.instagram.com/aliblackeye/)
+      <img alt="Instagram" width="30" height="30" src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/instagram.png" />( https://www.instagram.com/aliblackeye/)
       Instagram
     </li>
-
   </ul>
   
 </div>
