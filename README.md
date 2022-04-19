@@ -1,6 +1,6 @@
 <nav><h2 align="center">Merhaba bayanlar ve baylarrrr! 👋</h2></nav>
 
-
+<div class="baglantilar">
 <code>       
 <a href="https://www.linkedin.com/in/ali-karag%C3%B6z-259809225/"><img alt="LinkedIn" width="30" height="30" src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/linkedin.png"/></a>
       LinkedIn
@@ -19,7 +19,7 @@
 <code>
 <a href="https://www.instagram.com/aliblackeye" title="Instagram" rel="nofollow"><img width="30" src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/instagram.png" style="max-width: 100%;"> Instagram</a>
 </code>      
-
+</div>
 
 
 
