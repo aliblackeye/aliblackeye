@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hello There! 👋 
 
-<!--
-**aliblackeye/aliblackeye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 📌 GitHub Stats
 
-Here are some ideas to get you started:
+### Connect with me
+[<img align="left" alt="LinkedIn" width="80" src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/linkedin.ico" />]( https://www.linkedin.com/in/ali-karag%C3%B6z-259809225/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="HackerRank" width="80" src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/hackerrank.png" />]( https://www.hackerrank.com/ali_blackeye)
+
+[<img align="left" alt="Patika" width="80" src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/patikaLogo.png" />]( https://app.patika.dev/aliblackeye)
+
+[<img align="left" alt="Instagram" width="80" src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/instagram.png" />]( https://www.instagram.com/aliblackeye/)
+
