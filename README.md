@@ -1,4 +1,4 @@
-<nav><h2 align="center">Hello ladies and gentlemen 👋</h2></nav>
+<nav><h2 align="center">Hey ladies and gentlemen 👋</h2></nav>
 
 <div class="baglantilar" align="center">
 <code>       
