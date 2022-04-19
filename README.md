@@ -53,12 +53,9 @@
 </div>
 <hr>
 
-
-<div>
-      <a><img style="float: left;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliblackeye&layout=compact&show_icons=true&theme=radical"></a>
-
+<article>
+<a><img style="float: left;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliblackeye&layout=compact&show_icons=true&theme=radical"></a>
 <a><img style="float: right;" src="https://github-readme-stats.vercel.app/api?username=aliblackeye&show_icons=true&theme=radical"></a>
-</div>
-
+</article>
 <body>
 </html>
