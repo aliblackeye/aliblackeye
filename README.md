@@ -47,3 +47,5 @@
 <hr>
 
 ![aliblack's github stats](https://github-readme-stats.vercel.app/api?username=aliblackeye)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliblackeye)](https://github.com/aliblackeye/github-readme-stats)
