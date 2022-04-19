@@ -61,4 +61,4 @@
 <body>
 </html>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aliblackeye&repo=PatikaLearn&theme=radical)](https://github.com/aliblackeye/PatikaLearn)
+<a href="https://github.com/aliblackeye/PatikaLearn"></a><img src="https://github-readme-stats.vercel.app/api/pin/?username=aliblackeye&repo=PatikaLearn&theme=radical"></img>
