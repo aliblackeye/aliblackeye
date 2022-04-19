@@ -55,8 +55,8 @@
 
 
 <div>
-<img class="sol" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliblackeye&layout=compact&show_icons=true&theme=radical">
-<img class="right" src="https://github-readme-stats.vercel.app/api?username=aliblackeye&show_icons=true&theme=radical">
+<img width="400" height="400" class="sol" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliblackeye&layout=compact&show_icons=true&theme=radical">
+<img width="400" height="500" class="right" src="https://github-readme-stats.vercel.app/api?username=aliblackeye&show_icons=true&theme=radical">
 </div>
 <body>
 </html>
