@@ -8,7 +8,6 @@
 </style>
 </head>
 <body>
-style="float:right;"
 
 <nav><h2 align="center">Hey ladies and gentlemen 👋</h2></nav>
 
