@@ -32,9 +32,16 @@
 
 <hr>
 <div align="center">😎 Languages | Abilities | Tools 😋</div>
-<p>
-<img src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/python.png" width="20" height="20"></img></p>
 
-<p><img src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/python.png" width="20" height="20"></img></p>
+<code><img src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/python.png" width="20" height="20"></img></code>
+<code><img src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/c#.png" width="20" height="20"></img></code>
+<code><img src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/dart.png" width="20" height="20"></img></code>
+<code><img src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/php.png" width="20" height="20"></img></code>
+<code><img src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/unity.png" width="20" height="20"></img></code>
+<code><img src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/html5.png" width="20" height="20"></img></code>
+<code><img src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/css.png" width="20" height="20"></img></code>
+<code><img src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/javascript.png" width="20" height="20"></img></code>
+<code><img src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/database.png" width="20" height="20"></img></code>
+<code><img src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/linux.png" width="20" height="20"></img></code>
 
 <hr>
