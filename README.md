@@ -34,7 +34,7 @@
 <br>
 <br>
 <code><img src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/python.png" width="25" height="25"></img></code>
-<code><img src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/c#.png" width="25" height="25"></img></code>
+<code><img src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/cs.png" width="25" height="25"></img></code>
 <code><img src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/dart.png" width="25" height="25"></img></code>
 <code><img src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/php.png" width="25" height="25"></img></code>
 <code><img src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/unity.png" width="25" height="25"></img></code>
