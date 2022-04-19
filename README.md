@@ -47,9 +47,8 @@
 <hr>
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=aliblackeye&show_icons=true&theme=react&border_color=61dafb&hide_border=true"></img>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliblackeye&show_icons=true&theme=react&border_color=61dafb&hide_border=true"></img>
+<img style="float: left;"src="https://github-readme-stats.vercel.app/api?username=aliblackeye&show_icons=true&theme=react&border_color=61dafb&hide_border=true"></img>
+<img style="float: right;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliblackeye&show_icons=true&theme=react&border_color=61dafb&hide_border=true"></img>
 </div>
 <!-- https://github.com/aliblackeye/github-readme-stats -->
 
