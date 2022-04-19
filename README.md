@@ -1,3 +1,15 @@
+<!DOCTYPE html>
+<html>
+      
+<head>
+<style>
+.sol{float:left;}
+.sol{float:right;}
+</style>
+</head>
+<body>
+style="float:right;"
+
 <nav><h2 align="center">Hey ladies and gentlemen 👋</h2></nav>
 
 <div class="baglantilar" align="center">
@@ -16,7 +28,7 @@
 <code>
 <a href="https://www.instagram.com/aliblackeye" title="Instagram" rel="nofollow"><img width="30" src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/instagram.png" style="max-width: 100%;"> Instagram</a>
 </code>      
-      
+
 </div>
 
 <br>
@@ -46,10 +58,10 @@
 </div>
 <hr>
 
+
 <div>
-<img style="float:left;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliblackeye&show_icons=true&theme=react&border_color=61dafb&hide_border=true"></img>      
-<img style="color:black" src="https://github-readme-stats.vercel.app/api?username=aliblackeye&show_icons=true&theme=react&border_color=61dafb&hide_border=true"></img>
+<img class="sol" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliblackeye&show_icons=true&theme=react&border_color=61dafb&hide_border=true">
+<img class="right" src="https://github-readme-stats.vercel.app/api?username=aliblackeye&show_icons=true&theme=react&border_color=61dafb&hide_border=true">
 </div>
-<!-- https://github.com/aliblackeye/github-readme-stats -->
-
-
+<body>
+</html>
