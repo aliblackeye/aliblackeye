@@ -20,9 +20,6 @@
 </div>
 
 
-
-<hr>
-
 <div class="tanitim" align="center">
 <p>📚 I'm currently studying in Istinye University/Computer Programming.</p>
 <p>🤗 I like writing code while listening to music.</p>
@@ -33,6 +30,8 @@
 <hr>
 <div align="center">😎 Languages | Abilities | Tools 😋
 
+<br>
+<br>
 <code><img src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/python.png" width="20" height="20"></img></code>
 <code><img src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/c#.png" width="20" height="20"></img></code>
 <code><img src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/dart.png" width="20" height="20"></img></code>
