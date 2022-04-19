@@ -5,7 +5,7 @@
 </head>
 <body>
 
-<nav><img src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/text.gif"></nav>
+<nav align="center"><img src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/text.gif"></nav>
 
 <div class="baglantilar" align="center">
 <code>       
