@@ -45,3 +45,5 @@
 <code><img src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/linux.png" width="25" height="25"></img></code>
 </div>
 <hr>
+
+![aliblack's github stats](https://github-readme-stats.vercel.app/api?username=aliblackeye)
