@@ -36,7 +36,9 @@
 </div>
 
 <hr>
-<div align="center">😎 Languages | Abilities | Tools 😋
+<div align="center">
+      
+<h1>😎 Languages | Abilities | Tools 😋</h1>
 
 <br>
 <br>
