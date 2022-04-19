@@ -19,6 +19,7 @@
       
 </div>
 
+<br>
 
 <div class="tanitim" align="center">
 <p>📚 I'm currently studying in Istinye University/Computer Programming.</p>
