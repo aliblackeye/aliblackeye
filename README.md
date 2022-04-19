@@ -4,7 +4,8 @@
 <head>
 <style>
 .sol{float:left;}
-.sol{float:right;}
+      
+.sag{float:right;}
 </style>
 </head>
 <body>
