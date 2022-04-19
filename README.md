@@ -38,9 +38,7 @@
 <hr>
 <div align="center">
       
-<h4>😎 Languages | Abilities | Tools 😋</h4>
-
-<br>
+<h3>😎 Languages | Abilities | Tools 😋</h3>
 <br>
 <code><img src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/python.png" width="25" height="25"></img></code>
 <code><img src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/cs.png" width="25" height="25"></img></code>
