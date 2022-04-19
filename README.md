@@ -32,12 +32,12 @@
 
 <hr>
 <div align="center">😎 Languages | Abilities | Tools 😋</div>
+<code>
 <img src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/python.png" width="20" height="20"></img>
-<img src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/python.png" width="20" height="20"></img>
-<img src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/python.png" width="20" height="20"></img>
-<img src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/python.png" width="20" height="20"></img>
-<img src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/python.png" width="20" height="20"></img>
-<img src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/python.png" width="20" height="20"></img>
+</code>
 
+<code>
+<img src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/python.png" width="20" height="20"></img>
+</code>
 
 <hr>
