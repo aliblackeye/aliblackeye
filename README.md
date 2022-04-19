@@ -11,3 +11,8 @@ Patika
 
 [<img align="left" alt="Instagram" width="30" height="30" src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/instagram.png" />]( https://www.instagram.com/aliblackeye/)
 Instagram
+
+📚 I'm currently studying in Istinye University/Computer Programming.
+🤗 I like to code while listening to music.
+💻 I am interested in cyber security, site building, mobile development and game development.
+💬 Email: ali.blackeye@hotmail.com
