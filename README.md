@@ -46,8 +46,10 @@
 </div>
 <hr>
 
-![aliblack's github stats](https://github-readme-stats.vercel.app/api?username=aliblackeye&show_icons=true&theme=react&border_color=61dafb&hide_border=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliblackeye&show_icons=true&theme=react&border_color=61dafb&hide_border=true)](https://github.com/aliblackeye/github-readme-stats)
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=aliblackeye&show_icons=true&theme=react&border_color=61dafb&hide_border=true"></img>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliblackeye&show_icons=true&theme=react&border_color=61dafb&hide_border=true"></img>
+</div>
+<!-- https://github.com/aliblackeye/github-readme-stats -->
 
 
