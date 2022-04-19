@@ -54,7 +54,7 @@
 <hr>
 
 <div>
-<a><img style="float: left; width: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliblackeye&layout=compact&show_icons=true&theme=radical"></a>
+<a><img style="float: left; width: 200px; height: 100px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliblackeye&layout=compact&show_icons=true&theme=radical"></a>
 <a><img style="float: right; width: 200px;" src="https://github-readme-stats.vercel.app/api?username=aliblackeye&show_icons=true&theme=radical"></a>
 </div>
 <body>
