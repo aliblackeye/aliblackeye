@@ -30,9 +30,9 @@
 
 <div class="tanitim" align="center">
 <h6>📚 I'm currently studying in Istinye University/Computer Programming.</h6>
-<p>🤗 I like writing code while listening to music.</p>
-<p>💻 I am interested in cyber security, site building, mobile development and game development.</p>
-<p>💬 Email: ali.blackeye@hotmail.com</p>
+<h6>🤗 I like writing code while listening to music.</h6>
+<h6>💻 I am interested in cyber security, site building, mobile development and game development.</h6>
+<h6>💬 Email: ali.blackeye@hotmail.com</h6>
 </div>
 
 <hr>
