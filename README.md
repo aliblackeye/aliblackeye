@@ -55,10 +55,10 @@
 
 
 <div>
-<img class="sol" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliblackeye&layout=compact&show_icons=true&theme=radical">
-<img class="right" src="https://github-readme-stats.vercel.app/api?username=aliblackeye&show_icons=true&theme=radical">
+<img  width="200" height="200" class="sol" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliblackeye&layout=compact&show_icons=true&theme=radical">
+<img  width="200" height="200" class="right" src="https://github-readme-stats.vercel.app/api?username=aliblackeye&show_icons=true&theme=radical">
 </div>
 <body>
 </html>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aliblackeye&repo=PatikaLearn)](https://github.com/aliblackeye/PatikaLearn)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aliblackeye&repo=PatikaLearn&theme=radical)](https://github.com/aliblackeye/PatikaLearn)
