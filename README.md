@@ -24,10 +24,12 @@
 
 
 <hr>
-  
+
+<center>
 <p>📚 I'm currently studying in Istinye University/Computer Programming.</p>
 <p>🤗 I like to code while listening to music.</p>
 <p>💻 I am interested in cyber security, site building, mobile development and game development.</p>
 <p>💬 Email: ali.blackeye@hotmail.com</p>
+</center>
 
 <hr>
