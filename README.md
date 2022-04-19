@@ -29,10 +29,10 @@
 <br>
 
 <div class="tanitim" align="center">
-<h6>📚 I'm currently studying in Istinye University/Computer Programming.</h6>
-<h6>🤗 I like writing code while listening to music.</h6>
-<h6>💻 I am interested in cyber security, site building, mobile development and game development.</h6>
-<h6>💬 Email: ali.blackeye@hotmail.com</h6>
+<h5>📚 I'm currently studying in Istinye University/Computer Programming.</h5>
+<h5>🤗 I like writing code while listening to music.</h5>
+<h5>💻 I am interested in cyber security, site building, mobile development and game development.</h5>
+<h5>💬 Email: ali.blackeye@hotmail.com</h5>
 </div>
 
 <hr>
