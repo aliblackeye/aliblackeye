@@ -31,7 +31,7 @@
 <div class="tanitim" align="center">
 <h5>📚 I'm currently studying in Istinye University/Computer Programming.</h5>
 <h5>🤗 I like writing code while listening to music.</h5>
-<h5>💻 I am interested in cyber security and writing code.</h5>
+<h5>💻 I am interested in cyber security.</h5>
 <h5>💬 Email: ali.blackeye@hotmail.com</h5>
 </div>
 
