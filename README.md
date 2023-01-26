@@ -7,7 +7,7 @@
 
 <nav><div align="center"><img src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/text.gif"></div></nav>
 
-<div class="baglantilar" align="center">
+<div class="baglantilar" align="center" style="display:flex;">
 <code>       
 <a href="https://www.linkedin.com/in/aliblackeye/"><img alt="LinkedIn" width="30" height="30" src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/linkedin.png"/> LinkedIn</a>
 </code>
