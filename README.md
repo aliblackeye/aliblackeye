@@ -5,6 +5,8 @@
 </head>
 <body>
 
+
+
 <div class="tanitim" align="center">
 <h5>💻 I am a full stack developer.</h5>
 <h5>📚 I graduated from Istinye University/Computer Programming.</h5>
@@ -29,9 +31,9 @@
 </div>
 
 <hr>
+
 <div align="center">
-      
-<h3>😎 Languages | Abilities | Tools 😋</h3>
+<h3>Languages | Abilities | Tools</h3>
 <code><img src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/react.png" width="25" height="25"></img></code>
 <code><img src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/html5.png" width="25" height="25"></img></code>
 <code><img src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/css.png" width="30" height="30"></img></code>
