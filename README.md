@@ -5,6 +5,15 @@
 </head>
 <body>
 
+<div class="tanitim" align="center">
+<h3>Summary</h3>
+
+<h5>💻 I am a full stack developer.</h5>
+<h5>📚 I graduated from Istinye University/Computer Programming.</h5>
+<h5>🤗 I like writing code while listening to music.</h5>
+<h5>💬 Email: ali.blackeye@hotmail.com</h5>
+</div>
+
 <div class="baglantilar" align="center" style="white-space: normal;">
       <span>       
 <code  style="white-space: normal;">      <a href="https://www.linkedin.com/in/aliblackeye/"><img alt="LinkedIn" width="30" height="30" src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/linkedin.png"/> LinkedIn</a></code>
@@ -19,15 +28,6 @@
 <code  style="white-space: normal;">      <a href="https://www.instagram.com/aliblackeye" title="Instagram" rel="nofollow"><img width="30" src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/instagram.png" style="max-width: 100%;"> Instagram</a></code>
       </span>      
 
-</div>
-
-<br>
-
-<div class="tanitim" align="center">
-<h5>💻 I am a full stack developer.</h5>
-<h5>📚 I graduated from Istinye University/Computer Programming.</h5>
-<h5>🤗 I like writing code while listening to music.</h5>
-<h5>💬 Email: ali.blackeye@hotmail.com</h5>
 </div>
 
 <hr>
