@@ -6,7 +6,6 @@
 <body>
 
 
-
 <div class="tanitim" align="center">
 <h5>💻 I am a full stack developer.</h5>
 <h5>📚 I graduated from Istinye University/Computer Programming.</h5>
