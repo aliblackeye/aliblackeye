@@ -8,8 +8,7 @@
 
 <div class="tanitim" align="center">
 <h5>💻 I am a full stack developer.</h5>
-<h5>📚 I graduated from Istinye University/Computer Programming.</h5>
-<h5>🤗 I like writing code while listening to music.</h5>
+<h5>📚 Graduated from Istinye University/Computer Programming.</h5>
 <h5>💬 Email: ali.blackeye@hotmail.com</h5>
 </div>
 
