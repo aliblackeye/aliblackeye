@@ -1,49 +1,82 @@
-<!DOCTYPE html>
-<html>
-      
-<head>
-</head>
-<body>
+<h1 align="center">Hi, I'm Ali Karagöz 👋</h1>
 
+<h3 align="center">
+  Frontend-Focused Full Stack Developer
+</h3>
 
-<div class="tanitim" align="center">
-<h5>💻 I am a full stack developer.</h5>
-<h5>📚 Graduated from Istinye University/Computer Programming.</h5>
-<h5>💬 Email: ali.blackeye@hotmail.com</h5>
-</div>
+<p align="center">
+  I build modern, scalable and user-focused web applications with React, Next.js, TypeScript and Node.js.
+</p>
 
-<div class="baglantilar" align="center" style="white-space: normal;">
-      <span>       
-<code  style="white-space: normal;">      <a href="https://www.linkedin.com/in/aliblackeye/"><img alt="LinkedIn" width="30" height="30" src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/linkedin.png"/> LinkedIn</a></code>
-      </span>
-      <span>
-<code  style="white-space: normal;">      <a href="https://www.hackerrank.com/ali_blackeye/"><img alt="HackerRank" width="30" height="30" src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/hackerrank.png"/> HackerRank</a></code>
-      </span>
-      <span>
-<code  style="white-space: normal;">      <a href="https://academy.patika.dev/tr/@aliblackeye"><img alt="Patika" width="30" height="30" src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/patikaLogo.png"/> Patika</a></code>
-      </span>
-      <span>
-<code  style="white-space: normal;">      <a href="https://www.instagram.com/aliblackeye" title="Instagram" rel="nofollow"><img width="30" src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/instagram.png" style="max-width: 100%;"> Instagram</a></code>
-      </span>      
+<p align="center">
+  <a href="mailto:ali.blackeye@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-ali.blackeye%40hotmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ali-karagoz/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Ali%20Karagöz-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/alikaragoz_muzik" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Music%20Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
-</div>
+---
 
-<hr>
+## 👨‍💻 About Me
 
-<div align="center">
-<h3>Languages | Abilities | Tools</h3>
-<code><img src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/react.png" width="25" height="25"></img></code>
-<code><img src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/html5.png" width="25" height="25"></img></code>
-<code><img src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/css.png" width="30" height="30"></img></code>
-<code><img src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/sass.png" width="25" height="25"></img></code>
-<code><img src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/javascript.png" width="25" height="25"></img></code>
-<code><img src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/typescript.png" width="25" height="25"></img></code>
-<code><img src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/redux.png" width="25" height="25"></img></code>
-<code><img src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/database.png" width="25" height="25"></img></code>
-<code><img src="https://raw.githubusercontent.com/aliblackeye/aliblackeye/main/linux.png" width="25" height="25"></img></code>
-</div>
-<hr>
+- 💻 I’m a **Full Stack Developer** with a strong focus on **Frontend Engineering**
+- ⚛️ I mostly work with **React, Next.js, TypeScript and modern UI systems**
+- 🧠 I enjoy building clean, scalable and maintainable products
+- 🚀 Interested in **SaaS products, automation tools, dashboards and developer-focused applications**
+- 🎓 Graduated from **Istinye University - Computer Programming**
+- 🎸 Besides coding, I’m also interested in **music, guitar and vocal performance**
 
+---
 
-<body>
-</html>
+## 🛠️ Tech Stack
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,sass,tailwind,redux" />
+</p>
+
+### Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,mongodb,prisma" />
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vercel,figma,vscode,docker" />
+</p>
+
+---
+
+## 🚀 What I Like Building
+
+- Admin dashboards
+- SaaS platforms
+- Internal tools
+- Automation systems
+- Modern landing pages
+- API-driven web applications
+- Clean and reusable UI components
+
+---
+
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ali-karagoz/" target="_blank">LinkedIn</a> •
+  <a href="mailto:ali.blackeye@hotmail.com">Email</a> •
+  <a href="https://www.instagram.com/alikaragoz_muzik" target="_blank">Instagram</a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building, learning and improving every day.</i>
+</p>
